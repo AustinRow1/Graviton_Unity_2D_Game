@@ -1,0 +1,3 @@
+--7/12/2016--
+	Added dynamic lighting to flamethrower to give flames a glow effect.
+	
